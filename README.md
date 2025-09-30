@@ -14,5 +14,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choidubu&layout=compact&theme=radical)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=choidubu&show_icons=true&theme=radical)
-
