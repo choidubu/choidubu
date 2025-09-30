@@ -16,6 +16,3 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=choidubu&show_icons=true&theme=radical)
 
-## 📫 연락하기
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:choisuin16@naver.com)
