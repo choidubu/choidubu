@@ -12,11 +12,14 @@
 
 ## 🛠 기술 스택
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,spring,html,css,oracle,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,js,spring,html,css,vscode" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white" />
+</p>
 
-<br/>
 
 ---
 
