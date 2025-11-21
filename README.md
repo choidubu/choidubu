@@ -12,7 +12,7 @@
 
 ## 🛠 기술 스택
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,spring,html,css,oracle,vscode,render" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,spring,html,css,oracle,vscode" />
 </p>
 
 
