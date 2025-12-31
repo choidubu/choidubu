@@ -24,12 +24,8 @@
 ---
 
 ## 🥇 가장 많이 사용한 언어
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=choidubu&layout=compact&theme=radical"
-    alt="Top Langs"
-  />
-</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choidubu&layout=compact&theme=radical)
 
 
 
