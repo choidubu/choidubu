@@ -1,5 +1,5 @@
 <!-- 프로필 헤더 -->
-<h1 align="center">안녕하세요 👋 최수인입니다! 🐣</h1>
+<h1 align="center">안녕하세요 👋 최수인입니다! </h1>
 <p align="center">👩‍💻 개발자 | 📚 학습중</p>
 <p align="center">
   <strong>포트폴리오 👉</strong>  
