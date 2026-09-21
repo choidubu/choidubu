@@ -3,22 +3,17 @@
 <p align="center">👩‍💻 개발자 | 📚 학습중</p>
 <p align="center">
   <strong>포트폴리오 👉</strong>  
-  <a href="https://suin-s-portfolio.onrender.com" target="_blank">
-    suin-s-portfolio.onrender.com
-  </a>
+  <a href="[https://choidubu.github.io/Suin-s-Portfolio/]" target="_blank">
+    https://choidubu.github.io/Suin-s-Portfolio/
 </p>
 <br/>
 
 ---
 
 ## 🛠 기술 스택
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,spring,html,css,vscode" />
-</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,spring,oracle,postgres,git,c,python" />
 </p>
 
 ---
